@@ -14,6 +14,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"">
   <img align="center" alt="Luiz-php" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"">
+  <img align="center" alt="Luiz-nodejs" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"">
 
 </div>
   
